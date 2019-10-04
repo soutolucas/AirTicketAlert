@@ -1,4 +1,5 @@
-﻿using AirTicketAlert.Core.ValueObjects.Interfaces;
+﻿using AirTicketAlert.Core.Entities.Interfaces;
+using AirTicketAlert.Core.ValueObjects.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
